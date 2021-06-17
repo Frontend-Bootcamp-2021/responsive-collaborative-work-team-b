@@ -1,8 +1,8 @@
+@import './globals/variables';
+
 @import './mixin/font-size';
 @import './mixin/z-index';
 @import './mixin/media-query';
-
-@import './globals/variables';
 
 
 @import './base';
@@ -16,3 +16,11 @@
 @import './section-huge.scss';
 @import "./button.scss";
 @import "./button-selected.scss";
+@import './header';
+
+
+@import './sectionStats';
+@import './sectionFunction';
+@import './sectionComments';
+@import './sectionCommentsSubscribe';
+@import './sectionCommentsCards';
