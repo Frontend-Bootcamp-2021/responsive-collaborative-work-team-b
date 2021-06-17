@@ -6,4 +6,4 @@ Projeyi çalıştırmak için;
 ## Tasarımlar
 Figma: https://www.figma.com/file/YISG57EpMwQ9HF6eIcY0iT/Homework?node-id=0%3A1
 
-Tasarımları inceleyebilmek için Figma ya ücretsiz kayıt olmanız gerekiyor.
+Tasarımları inceleyebilmek için Figma ya ücretsiz kayıt olmanız gerekiyor....
